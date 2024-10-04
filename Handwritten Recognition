@@ -1,17 +1,17 @@
-## DL: Built and Trained a CNN for MNIST Handwritten Digit Recognition
+# DL: Built and Trained a CNN for MNIST Handwritten Digit Recognition
 The goal of this project was to build a Convolutional Neural Network (CNN) to recognize handwritten digits from the MNIST dataset. The MNIST dataset contained 70,000 grayscale images of digits (0-9), each 28x28 pixels in size. Using TensorFlow and Keras, the project created and trained a deep learning model to classify these digits accurately. It involved data preprocessing, model building, training, and evaluation to understand CNNs and their application.
 
-## Tasks Completed:
-Loaded the MNIST dataset correctly.
-Normalized the pixel values between 0 and 1.
-Built a CNN with convolutional layers.
-Included MaxPooling layers.
-Added dense layers and the correct output layer with 10 neurons and softmax activation.
-Used the 'adam' optimizer.
-Set the loss function to 'categorical_crossentropy'.
-Tracked accuracy as the evaluation metric.
-Trained the model.
-Tracked both training and validation accuracy/loss.
-Evaluated the model on test data.
-Plotted accuracy and loss graphs.
-Model link :- https://colab.research.google.com/drive/16thOnxRXBa9B0P4uZ1FqwkeGq8vBD9C9?usp=sharing
+# Tasks Completed:
+* Loaded the MNIST dataset correctly.
+* Normalized the pixel values between 0 and 1.
+* Built a CNN with convolutional layers.
+* Included MaxPooling layers.
+* Added dense layers and the correct output layer with 10 neurons and softmax activation.
+* Used the 'adam' optimizer.
+* Set the loss function to 'categorical_crossentropy'.
+* Tracked accuracy as the evaluation metric.
+* Trained the model.
+* Tracked both training and validation accuracy/loss.
+* Evaluated the model on test data.
+* Plotted accuracy and loss graphs.
+* Model link :- https://colab.research.google.com/drive/16thOnxRXBa9B0P4uZ1FqwkeGq8vBD9C9?usp=sharing
